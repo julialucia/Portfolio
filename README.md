@@ -1,7 +1,7 @@
 # Portfolio
 <!DOCTYPE html>
 <head>
-<title>TITLE</title>
+<title> TITLE </title>
 </head>
 <body>
 
